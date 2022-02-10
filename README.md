@@ -1,2 +1,2 @@
 # semantic-prs-test
-Repo to test smenatic prs
+Repo to test semantic prs
